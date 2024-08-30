@@ -12,3 +12,6 @@
 
 ## How to run the game
 `python main.py`
+
+## YouTube Video
+https://youtu.be/mj1K5NIfgnE
